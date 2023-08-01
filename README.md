@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
-<h3 align="center">A Programmer</h3>
+<h3 align="center">Programmer</h3>
 
 <p align="left"> <a href="https://twitter.com/dexter845" target="blank"><img src="https://img.shields.io/twitter/follow/dexter845?logo=twitter&style=for-the-badge" alt="dexter845" /></a> </p>
 
 - 📝 I write articles on [https://dev.to/dexter845](https://dev.to/dexter845)
 
 - 📫 How to reach me **abdullahamir845@gmail.com**
-
-- ⚡ Fun fact **I have watched the office more than 4 times**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
